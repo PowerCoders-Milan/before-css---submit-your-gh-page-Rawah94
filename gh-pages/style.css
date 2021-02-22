@@ -29,7 +29,7 @@ li > a {
 }
 
 li > a:hover {
-  color: black;
+  color: rgb(55, 232, 245);
 }
 
 h2 {
@@ -105,7 +105,7 @@ h2 {
 }
 
 #btn-work {
-  background-color: rgba(39, 111, 191, 1);
+  background-color: rgb(193, 161, 230);
   border: 1px solid white;
   border-radius: 4px;
   color: white;
@@ -118,7 +118,7 @@ h2 {
 
 #btn-work:hover {
   background: white;
-  color: rgba(39, 111, 191, 1);
+  color: rgb(199, 166, 241);
   transition: 0.2s;
 }
 
@@ -145,7 +145,7 @@ h2 {
 }
 
 #work:hover {
-  background: rgba(39, 111, 191, 1);
+  background: rgb(181, 200, 221);
   color: white;
   transition: 0.6s;
 }
